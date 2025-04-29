@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>187.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\电力设备数据集\images\187.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1706</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Conservator</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>185</ymin>
+			<xmax>1047</xmax>
+			<ymax>645</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -170,7 +170,7 @@ tools/dist_train.sh few_shot/voc_fin_split1_10shots.py
 # 6. Testing
 
 Evaluate the trained model:
-tools/dist_test.sh "path/to/config/file.py" "path/to/trained/weights.pth" 1 --eval bbox
+
 ```
 tools/dist_test.sh few_shot/voc_fin_split1_10shots.py work_dirs/voc_fin_split1_10shots/latest.pth --eval bbox
 ```
